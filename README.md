@@ -6,5 +6,7 @@ Finally, Customer Segmentation to help us divide them into groups and know how t
 
 Perspectives:
 - Classification of customers
--Clustering of transaction dataset based on its initial features (CustomersID, InvoiceDate,etc)
-- create new features (Time, Day of week, Month) to explore the data from that point and see what common behaviors like in which period they shop most etc.
+
+-Clustering of transaction dataset based on its initial features (CustomersID, InvoiceDate,etc), apply PCA, feature selection.
+
+-Create new features (Time, Day of week, Month) to explore the data (EDA) from that point and see what common behaviors like in which period they shop most etc.
